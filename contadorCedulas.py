@@ -8,4 +8,4 @@ while valor>=2:
     valor-=valores[i]
     contador+=1
   else: i+=1
-print("Você sacará",contador,"notas")
+print("Você vai sacar",contador,"notas")
